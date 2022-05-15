@@ -1,2 +1,2 @@
 # Kriptografi
-playfair,transpose,hill
+coding playfair,transpose,hill
